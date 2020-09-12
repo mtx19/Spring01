@@ -1,0 +1,3 @@
+# Project exclude paths
+/spring-01-ioc/target/
+/spring-02-ioc/target/
